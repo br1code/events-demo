@@ -19,9 +19,9 @@ namespace EventsDemo
             blog.PostCreated += mailService.OnPostCreated;
             blog.PostCreated += messageService.OnPostCreated;
 
-            blog.Post(new Post("Hello, my name is br1"));
+            blog.CreatePost(new Post("Hello, my name is br1"));
             Thread.Sleep(1500);
-            blog.Post(new Post("I want to learn C# deeply"));
+            blog.CreatePost(new Post("I want to learn C# deeply"));
 
             Console.ReadKey();
         }

@@ -6,7 +6,7 @@ namespace EventsDemo.Services
     {
         public void OnPostCreated(object sender, PostEventArgs args)
         {
-            Console.WriteLine("MessageService: You have created a new post!");
+            Console.WriteLine("MessageService: A new post has been created!");
             Console.WriteLine($"{args.Post.Date}\n{args.Post.Content}\n");
         }
     }

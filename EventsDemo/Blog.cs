@@ -15,9 +15,9 @@ namespace EventsDemo
             posts = new List<Post>();
         }
 
-        public void Post(Post post)
+        public void CreatePost(Post post)
         {
-            Console.WriteLine("New post created\n");
+            Console.WriteLine("The post has been created successfully.\n");
             posts.Add(post);
             Thread.Sleep(3000);
 
