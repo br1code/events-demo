@@ -1,0 +1,7 @@
+D:\BR1 CODE\C# Projects and Learning\EventsDemo\EventsDemo\bin\Debug\EventsDemo.exe.config
+D:\BR1 CODE\C# Projects and Learning\EventsDemo\EventsDemo\bin\Debug\EventsDemo.exe
+D:\BR1 CODE\C# Projects and Learning\EventsDemo\EventsDemo\bin\Debug\EventsDemo.pdb
+D:\BR1 CODE\C# Projects and Learning\EventsDemo\EventsDemo\obj\Debug\EventsDemo.csprojAssemblyReference.cache
+D:\BR1 CODE\C# Projects and Learning\EventsDemo\EventsDemo\obj\Debug\EventsDemo.csproj.CoreCompileInputs.cache
+D:\BR1 CODE\C# Projects and Learning\EventsDemo\EventsDemo\obj\Debug\EventsDemo.exe
+D:\BR1 CODE\C# Projects and Learning\EventsDemo\EventsDemo\obj\Debug\EventsDemo.pdb
